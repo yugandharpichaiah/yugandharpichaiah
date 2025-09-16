@@ -24,9 +24,10 @@ I'm a passionate and self-driven developer with experience in **Java**, **DevOps
 
 ### 📚 Currently Learning
 
-- java fullstack and devops
+- Java fullstack
+- Devops
 - Advanced Spring Boot and Microservices
-- Python for Data Engineering
+- Python fullstack
 
 ---
 
@@ -35,7 +36,7 @@ I'm a passionate and self-driven developer with experience in **Java**, **DevOps
 - Java development & backend architecture
 - Docker & containerization
 - Writing optimized SQL queries
-- Automating with Jenkins or GitHub Actions
+- GitHub Actions
 
 ---
 
